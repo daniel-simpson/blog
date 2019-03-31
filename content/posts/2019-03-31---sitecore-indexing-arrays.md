@@ -2,7 +2,7 @@
 title: Sitecore indexing arrays with Azure Search
 date: "2019-03-31"
 template: "post"
-draft: true
+draft: false
 slug: "/posts/2019/sitecore-indexing-arrays-with-azure-search/"
 category: "Sitecore"
 tags:
