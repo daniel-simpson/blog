@@ -11,7 +11,7 @@ tags:
 - "xpages"
 - "domino"
 - "filedownload"
-description: "I have encountered an issue with the file download control and reported it to IBM."
+description: "I have encountered an issue with the file download control and reported it to IBM."
 ---
 I have encountered an issue with the file download control and reported it to IBM.
 
