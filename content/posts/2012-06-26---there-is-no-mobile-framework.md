@@ -42,7 +42,7 @@ Actually developing the websites isn't hard either, once you have the media quer
 And for no other reason than to add a bit of colour, here are some photos from my travels. :)
 
 <p style="text-align:center">
-<img src="http://farm6.staticflickr.com/5339/7437654846_219d4e6c57_q.jpg" />
-<img src="http://farm8.staticflickr.com/7136/7436254430_8a7af6fa04_q.jpg" />
-<img src="http://farm6.staticflickr.com/5319/7436305836_4856a4e692_q.jpg" />
+<img src="https://farm6.staticflickr.com/5339/7437654846_219d4e6c57_q.jpg" />
+<img src="https://farm8.staticflickr.com/7136/7436254430_8a7af6fa04_q.jpg" />
+<img src="https://farm6.staticflickr.com/5319/7436305836_4856a4e692_q.jpg" />
 </p>
