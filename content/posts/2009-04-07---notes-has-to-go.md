@@ -15,7 +15,7 @@ tags:
 - "outlook"
 - "domino"
 - "iis"
-description: "I would like to hear from one person, who is not currently making or has not recently made a decent income from the Lotus Notes suite of products, who can strongly say they support IBM's Lotus Notes as a user-friendly, efficient, productivity increasing piece of software."
+description: "I would like to hear from one person, who is not currently making or has not recently made a decent income from the Lotus Notes suite of products, who can strongly say they support IBM's Lotus Notes as a user-friendly, efficient, productivity increasing piece of software."
 ---
 I would like to hear from one person, who is not currently making or has not recently made a decent income from the Lotus Notes suite of products, who can strongly say they support IBM's Lotus Notes as a user-friendly, efficient, productivity increasing piece of software.
 

@@ -10,7 +10,7 @@ tags:
 - "xpages"
 - "web"
 - "notes"
-description: "I encountered an issue with XPages and a text field in a Lotus Notes document."
+description: "I encountered an issue with XPages and a text field in a Lotus Notes document."
 ---
 I encountered an issue with XPages and a text field in a Lotus Notes document.
 

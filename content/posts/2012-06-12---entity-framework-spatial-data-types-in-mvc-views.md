@@ -10,7 +10,7 @@ tags:
 - "mvc"
 - "entity framework"
 - "spatial"
-description: "I was slapped with another funny one with Entity Framework and MVC today.  I wanted to access a `System.Data.Spatial.DbGeography` part of the Entity Framework in one of my views.  But I kept getting the error saying that `DbGeography` was in an assembly that wasn't referenced."
+description: "I was slapped with another funny one with Entity Framework and MVC today.  I wanted to access a `System.Data.Spatial.DbGeography` part of the Entity Framework in one of my views.  But I kept getting the error saying that `DbGeography` was in an assembly that wasn't referenced."
 ---
 I was slapped with another funny one with Entity Framework and MVC today.  I wanted to access a `System.Data.Spatial.DbGeography` part of the Entity Framework in one of my views.  But I kept getting the error saying that `DbGeography` was in an assembly that wasn't referenced.
 

@@ -10,7 +10,7 @@ tags:
 - ".net"
 - "ef"
 - "oss"
-description: "It started with ASP.NET (MVC, WebForms, WebApi, etc...) and now they've gone and opened up the source for Entity Framework!"
+description: "It started with ASP.NET (MVC, WebForms, WebApi, etc...) and now they've gone and opened up the source for Entity Framework!"
 ---
 It started with ASP.NET (MVC, WebForms, WebApi, etc...) and now they've gone and opened up the source for Entity Framework!
 

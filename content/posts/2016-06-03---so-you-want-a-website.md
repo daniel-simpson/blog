@@ -11,7 +11,7 @@ tags:
 - "web"
 - "s3"
 - "cloudfront"
-description: "One of the hardest questions to be asked as a programmer who primarily does web development is: "How much for a website?"  It's one of those questions that doesn't really have an exact answer.  "How much do you want to pay for a website?" is probably a better question."
+description: "One of the hardest questions to be asked as a programmer who primarily does web development is: 'How much for a website?'  It's one of those questions that doesn't really have an exact answer.  'How much do you want to pay for a website?' is probably a better question."
 ---
 One of the hardest questions to be asked as a programmer who primarily does web development is: "How much for a website?"  It's one of those questions that doesn't really have an exact answer.  "How much do you want to pay for a website?" is probably a better question.
 

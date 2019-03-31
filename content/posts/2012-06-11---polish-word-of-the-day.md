@@ -9,7 +9,7 @@ tags:
 - "life"
 - "languages"
 - "polish"
-description: "**łatwe**"
+description: "**łatwe**"
 ---
 **łatwe**
 

@@ -12,7 +12,7 @@ tags:
 - "javascript"
 - "mobile"
 - "jquery-mobile"
-description: "Whatever the question is, jQuery Mobile is never the right answer. Well, unless you're throwing something together very quickly and have absolutely zero concern for customisability **and** are targeting *only* phones with screens 4.5" and smaller."
+description: "Whatever the question is, jQuery Mobile is never the right answer. Well, unless you're throwing something together very quickly and have absolutely zero concern for customisability **and** are targeting *only* phones with screens 4.5' and smaller."
 ---
 Whatever the question is, jQuery Mobile is never the right answer. Well, unless you're throwing something together very quickly and have absolutely zero concern for customisability **and** are targeting *only* phones with screens 4.5" and smaller.
 

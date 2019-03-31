@@ -9,7 +9,7 @@ tags:
 - "old"
 - "ibm-sucks"
 - "notes"
-description: "Another half day wasted trying to work my way around the shoddy piece of software IBM like to call Lotus Notes."
+description: "Another half day wasted trying to work my way around the shoddy piece of software IBM like to call Lotus Notes."
 ---
 Another half day wasted trying to work my way around the shoddy piece of software IBM like to call Lotus Notes.
 

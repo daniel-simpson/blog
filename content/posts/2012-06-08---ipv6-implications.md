@@ -8,7 +8,7 @@ slug: "/posts/2012/ipv6-implications/"
 tags:
 - "ipv6"
 - "internet"
-description: "Today I was tasked with answering a customer query regarding IPv6 and whether it will have any impact on their website.  I initially wasn't sure how to address this, but did my best to respond."
+description: "Today I was tasked with answering a customer query regarding IPv6 and whether it will have any impact on their website.  I initially wasn't sure how to address this, but did my best to respond."
 ---
 Today I was tasked with answering a customer query regarding IPv6 and whether it will have any impact on their website.  I initially wasn't sure how to address this, but did my best to respond.
 

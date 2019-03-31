@@ -8,7 +8,7 @@ slug: "/posts/2009/something-different/"
 tags:
 - "old"
 - "wow"
-description: "Nothing.  No problems.  No dramas."
+description: "Nothing.  No problems.  No dramas."
 ---
 Nothing.  No problems.  No dramas.
 

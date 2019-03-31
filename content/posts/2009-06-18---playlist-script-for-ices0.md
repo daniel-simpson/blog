@@ -7,7 +7,7 @@ slug: "/posts/2009/playlist-script-for-ices0/"
 
 tags:
 - "old"
-description: "I use ices0 + icecast to stream my music to me all over the globe.  I created a python script to build generate the playlist of songs that are played."
+description: "I use ices0 + icecast to stream my music to me all over the globe.  I created a python script to build generate the playlist of songs that are played."
 ---
 I use ices0 + icecast to stream my music to me all over the globe.  I created a python script to build generate the playlist of songs that are played.
 

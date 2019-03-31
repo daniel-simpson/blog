@@ -10,7 +10,7 @@ tags:
 - "domino"
 - "iis"
 - "xpages"
-description: "I have come across an issue when using IIS as the HTTP front end to Domino where XPages fails to work."
+description: "I have come across an issue when using IIS as the HTTP front end to Domino where XPages fails to work."
 ---
 I have come across an issue when using IIS as the HTTP front end to Domino where XPages fails to work.
 

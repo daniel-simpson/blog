@@ -10,7 +10,7 @@ tags:
 - "domino"
 - "notes"
 - "java"
-description: "Attached is the Java code for an agent I built that resizes all the images (attached in a rich text field) to a certain size if they are too large."
+description: "Attached is the Java code for an agent I built that resizes all the images (attached in a rich text field) to a certain size if they are too large."
 ---
 Attached is the Java code for an agent I built that resizes all the images (attached in a rich text field) to a certain size if they are too large.
 

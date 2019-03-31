@@ -10,7 +10,7 @@ tags:
 - "xpages"
 - "ibm-sucks"
 - "domino"
-description: "I hear you all look at my with a curious expression on your face."
+description: "I hear you all look at my with a curious expression on your face."
 ---
 I hear you all look at my with a curious expression on your face.
 

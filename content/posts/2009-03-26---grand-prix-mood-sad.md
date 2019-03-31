@@ -8,7 +8,7 @@ slug: "/posts/2009/grand-prix-mood-sad/"
 tags:
 - "old"
 - "life"
-description: "The grand prix kicks off here in Melbourne today."
+description: "The grand prix kicks off here in Melbourne today."
 ---
 The grand prix kicks off here in Melbourne today.
 

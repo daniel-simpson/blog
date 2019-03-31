@@ -10,7 +10,7 @@ tags:
 - "web-developer"
 - "xhtml"
 - "microsoft"
-description: "So apparently, according to Visual Web Developer, input elements don't belong in forms?"
+description: "So apparently, according to Visual Web Developer, input elements don't belong in forms?"
 ---
 So apparently, according to Visual Web Developer, input elements don't belong in forms?
 

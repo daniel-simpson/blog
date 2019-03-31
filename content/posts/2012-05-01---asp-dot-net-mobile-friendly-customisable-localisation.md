@@ -12,7 +12,7 @@ tags:
 - "mvc"
 - "i18n"
 - "mobile"
-description: "My current task is to investigate what technologies to port the current WebForms application to, it's been decided that we will go towards MVC, but I need to determine what extra technologies will be needed to match (and of course, better..) the current site."
+description: "My current task is to investigate what technologies to port the current WebForms application to, it's been decided that we will go towards MVC, but I need to determine what extra technologies will be needed to match (and of course, better..) the current site."
 ---
 My current task is to investigate what technologies to port the current WebForms application to, it's been decided that we will go towards MVC, but I need to determine what extra technologies will be needed to match (and of course, better..) the current site.
 

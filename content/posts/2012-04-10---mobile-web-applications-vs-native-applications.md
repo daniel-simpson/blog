@@ -8,7 +8,7 @@ slug: "/posts/2012/mobile-web-applications-vs-native-applications/"
 tags:
 - "development"
 - "mobile"
-description: "There is a clear distinction between a mobile application and a mobile web application. Mobile applications are natively compiled applications that run on mobile devices, mobile web applications are regular web applications designed to run on mobile devices."
+description: "There is a clear distinction between a mobile application and a mobile web application. Mobile applications are natively compiled applications that run on mobile devices, mobile web applications are regular web applications designed to run on mobile devices."
 ---
 There is a clear distinction between a mobile application and a mobile web application. Mobile applications are natively compiled applications that run on mobile devices, mobile web applications are regular web applications designed to run on mobile devices.
 

@@ -11,7 +11,7 @@ tags:
 - "html"
 - "css"
 - "tables"
-description: "This has been discussed over and over and over and over again, and you would think in 2012 with HTML5 this conversation would have been put to sleep a long time ago.  Unfortunately, not."
+description: "This has been discussed over and over and over and over again, and you would think in 2012 with HTML5 this conversation would have been put to sleep a long time ago.  Unfortunately, not."
 ---
 This has been discussed over and over and over and over again, and you would think in 2012 with HTML5 this conversation would have been put to sleep a long time ago.  Unfortunately, not.
 

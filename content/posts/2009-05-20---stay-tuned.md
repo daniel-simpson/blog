@@ -8,7 +8,7 @@ slug: "/posts/2009/stay-tuned/"
 tags:
 - "old"
 - "blog"
-description: "I have recently moved host and have changed the blog configuration to run off a database instead of flat XML files."
+description: "I have recently moved host and have changed the blog configuration to run off a database instead of flat XML files."
 ---
 I have recently moved host and have changed the blog configuration to run off a database instead of flat XML files.
 

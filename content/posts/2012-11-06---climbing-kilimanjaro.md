@@ -10,7 +10,7 @@ tags:
 - "africa"
 - "travel"
 - "kilimanjaro"
-description: "The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word "Kilimankyaro" meaning "difficult mountain to climb;" had we known that before we climbed, maybe we might have thought it better not to try.  Luckily for us - we found out a few days after we started our ascent: far too late to turn around."
+description: "The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word 'Kilimankyaro' meaning 'difficult mountain to climb;' had we known that before we climbed, maybe we might have thought it better not to try.  Luckily for us - we found out a few days after we started our ascent: far too late to turn around."
 ---
 The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word "Kilimankyaro" meaning "difficult mountain to climb;" had we known that before we climbed, maybe we might have thought it better not to try.  Luckily for us - we found out a few days after we started our ascent: far too late to turn around.
 

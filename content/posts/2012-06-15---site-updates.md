@@ -7,7 +7,7 @@ slug: "/posts/2012/site-updates/"
 
 tags:
 - "blog"
-description: "So anyone who has actually been paying attention may notice a few updates to the site.  This is very much a work in progress, but I'm getting there... slowly."
+description: "So anyone who has actually been paying attention may notice a few updates to the site.  This is very much a work in progress, but I'm getting there... slowly."
 ---
 So anyone who has actually been paying attention may notice a few updates to the site.  This is very much a work in progress, but I'm getting there... slowly.
 

@@ -7,7 +7,7 @@ slug: "/posts/2012/web-design-isnt-easy/"
 
 tags:
 - "design"
-description: "I've always had great respect for good web designers.  They need to know enough about how websites work as well as having an eye for making things look good.  From my own perspective I know how websites work, from HTTP requests to how HTML and CSS get rendered, but when it comes to design, quite simply: I suck. (Which explains why this blog is running a stock-standard BlogEngine.NET theme)"
+description: "I've always had great respect for good web designers.  They need to know enough about how websites work as well as having an eye for making things look good.  From my own perspective I know how websites work, from HTTP requests to how HTML and CSS get rendered, but when it comes to design, quite simply: I suck. (Which explains why this blog is running a stock-standard BlogEngine.NET theme)"
 ---
 I've always had great respect for good web designers.  They need to know enough about how websites work as well as having an eye for making things look good.  From my own perspective I know how websites work, from HTTP requests to how HTML and CSS get rendered, but when it comes to design, quite simply: I suck. (Which explains why this blog is running a stock-standard BlogEngine.NET theme)
 

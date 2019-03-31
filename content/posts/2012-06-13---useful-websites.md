@@ -7,7 +7,7 @@ slug: "/posts/2012/useful-websites/"
 
 tags:
 - "blog"
-description: "In building this website there have been a couple of websites that have been quite useful."
+description: "In building this website there have been a couple of websites that have been quite useful."
 ---
 In building this website there have been a couple of websites that have been quite useful.
 

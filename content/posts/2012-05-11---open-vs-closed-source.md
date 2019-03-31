@@ -9,7 +9,7 @@ tags:
 - "development"
 - "rant"
 - "life"
-description: "After a discussion on the feasibility of open source, I needed to get my thoughts out there on the topic."
+description: "After a discussion on the feasibility of open source, I needed to get my thoughts out there on the topic."
 ---
 After a discussion on the feasibility of open source, I needed to get my thoughts out there on the topic.
 

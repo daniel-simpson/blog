@@ -7,7 +7,7 @@ slug: "/posts/2012/asp-dot-net-mvc-mini-profiler/"
 
 tags:
 - "asp.net"
-description: "So I'm a little late to the party on this one apparently but it seems too good to be true, and I'm putting it here simply so I don't forget about it."
+description: "So I'm a little late to the party on this one apparently but it seems too good to be true, and I'm putting it here simply so I don't forget about it."
 ---
 So I'm a little late to the party on this one apparently but it seems too good to be true, and I'm putting it here simply so I don't forget about it.
 

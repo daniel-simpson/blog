@@ -10,7 +10,7 @@ tags:
 - "c-sharp"
 - "entity-framework"
 - ".net"
-description: "Let's start with the code..."
+description: "Let's start with the code..."
 ---
 Let's start with the code...
 

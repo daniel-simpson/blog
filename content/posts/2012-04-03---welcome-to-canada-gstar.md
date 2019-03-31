@@ -9,7 +9,7 @@ tags:
 - "life"
 - "shopping"
 - "clothes"
-description: "In 1989 a company called Gap Star was started in Holland, in 1996 they went international and one of the ramifications of doing so was a clash with a certain other large international clothing brand that inevitably forced them to rename themselves, as what we now know as G-STAR."
+description: "In 1989 a company called Gap Star was started in Holland, in 1996 they went international and one of the ramifications of doing so was a clash with a certain other large international clothing brand that inevitably forced them to rename themselves, as what we now know as G-STAR."
 ---
 In 1989 a company called Gap Star was started in Holland, in 1996 they went international and one of the ramifications of doing so was a clash with a certain other large international clothing brand that inevitably forced them to rename themselves, as what we now know as G-STAR.
 

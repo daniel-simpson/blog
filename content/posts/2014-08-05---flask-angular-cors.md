@@ -12,7 +12,7 @@ tags:
 - "flask"
 - "programming"
 - "development"
-description: "I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that [Jeff Atwood](http://www.codinghorror.com) was right in saying "Storage is cheap, programmers are expensive."  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to [Flask](http://flask.pocoo.com) given my familiarity with it."
+description: "I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that [Jeff Atwood](http://www.codinghorror.com) was right in saying 'Storage is cheap, programmers are expensive.'  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to [Flask](http://flask.pocoo.com) given my familiarity with it."
 ---
 I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that [Jeff Atwood](http://www.codinghorror.com) was right in saying "Storage is cheap, programmers are expensive."  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to [Flask](http://flask.pocoo.com) given my familiarity with it.
 

@@ -8,7 +8,7 @@ slug: "/posts/2012/visual-studio-2012-rtm/"
 tags:
 - "development"
 - "visual-studio"
-description: "It's finally here!  I made the switch at beta, then *upgraded* to the RC, now the Visual Studio 2012 RTM launch has been announced.  August 15th for MSDN subscribers (all the more reason to sign up... $800/year for basically all MS products isn't too bad...), or September 12th for everybody else."
+description: "It's finally here!  I made the switch at beta, then *upgraded* to the RC, now the Visual Studio 2012 RTM launch has been announced.  August 15th for MSDN subscribers (all the more reason to sign up... $800/year for basically all MS products isn't too bad...), or September 12th for everybody else."
 ---
 It's finally here!  I made the switch at beta, then *upgraded* to the RC, now the Visual Studio 2012 RTM launch has been announced.  August 15th for MSDN subscribers (all the more reason to sign up... $800/year for basically all MS products isn't too bad...), or September 12th for everybody else.
 

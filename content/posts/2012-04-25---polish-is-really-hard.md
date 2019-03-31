@@ -9,7 +9,7 @@ tags:
 - "life"
 - "languages"
 - "polish"
-description: "Well I'm not sure it's just Polish that's hard to learn, coming from English everything seems difficult.  I've come to conclude it's due to a couple of things..."
+description: "Well I'm not sure it's just Polish that's hard to learn, coming from English everything seems difficult.  I've come to conclude it's due to a couple of things..."
 ---
 Well I'm not sure it's just Polish that's hard to learn, coming from English everything seems difficult.  I've come to conclude it's due to a couple of things...
 

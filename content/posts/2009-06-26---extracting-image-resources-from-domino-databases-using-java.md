@@ -10,7 +10,7 @@ tags:
 - "domino"
 - "notes"
 - "java"
-description: "I had the necessity to extract an image that is embedded in the database an a resource out to the file system."
+description: "I had the necessity to extract an image that is embedded in the database an a resource out to the file system."
 ---
 I had the necessity to extract an image that is embedded in the database an a resource out to the file system.
 

@@ -8,7 +8,7 @@ slug: "/posts/2012/calculating-velocity-on-iphone/"
 tags:
 - "ios"
 - "iphone"
-description: "So after a hard drive crash and a memory upgrade my MacBook is back up and running with OS X Lion and Xcode installed."
+description: "So after a hard drive crash and a memory upgrade my MacBook is back up and running with OS X Lion and Xcode installed."
 ---
 So after a hard drive crash and a memory upgrade my MacBook is back up and running with OS X Lion and Xcode installed.
 

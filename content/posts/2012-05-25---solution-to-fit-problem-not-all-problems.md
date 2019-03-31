@@ -9,7 +9,7 @@ tags:
 - "development"
 - "life"
 - "rant"
-description: "Too many times architects and/or developers will start a project with delusions of grandeur, instead of addressing the issue and achieving the required goal, they end up tacking on so much more than is actually asked for which more often than not ends up in more of a mess than if they took the simple approach."
+description: "Too many times architects and/or developers will start a project with delusions of grandeur, instead of addressing the issue and achieving the required goal, they end up tacking on so much more than is actually asked for which more often than not ends up in more of a mess than if they took the simple approach."
 ---
 Too many times architects and/or developers will start a project with delusions of grandeur, instead of addressing the issue and achieving the required goal, they end up tacking on so much more than is actually asked for which more often than not ends up in more of a mess than if they took the simple approach.
 

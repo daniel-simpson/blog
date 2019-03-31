@@ -9,7 +9,7 @@ tags:
 - "development"
 - "asp.net"
 - "webforms"
-description: "So the project I'm working on one of the tasks was to review the countless exception emails that get sent to all the developers and triage them.  Determine which ones to fix and which to ignore."
+description: "So the project I'm working on one of the tasks was to review the countless exception emails that get sent to all the developers and triage them.  Determine which ones to fix and which to ignore."
 ---
 So the project I'm working on one of the tasks was to review the countless exception emails that get sent to all the developers and triage them.  Determine which ones to fix and which to ignore.
 

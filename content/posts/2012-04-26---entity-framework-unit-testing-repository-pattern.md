@@ -11,7 +11,7 @@ tags:
 - "sql"
 - "development"
 - "testing"
-description: "I gave myself a problem.  I started reading about test-driven development (TDD), and it had me intrigued.  The way I generally developed websites was having the presentation layer of my applications (mainly MVC websites) somewhat tightly coupled with the data source.  Controllers would be access the database via L2S or EF and pass the returned model to the view.  This works, sometimes (small projects, etc...), but it isn't exactly great when projects start to expand and testing becomes useful."
+description: "I gave myself a problem.  I started reading about test-driven development (TDD), and it had me intrigued.  The way I generally developed websites was having the presentation layer of my applications (mainly MVC websites) somewhat tightly coupled with the data source.  Controllers would be access the database via L2S or EF and pass the returned model to the view.  This works, sometimes (small projects, etc...), but it isn't exactly great when projects start to expand and testing becomes useful."
 ---
 I gave myself a problem.  I started reading about test-driven development (TDD), and it had me intrigued.  The way I generally developed websites was having the presentation layer of my applications (mainly MVC websites) somewhat tightly coupled with the data source.  Controllers would be access the database via L2S or EF and pass the returned model to the view.  This works, sometimes (small projects, etc...), but it isn't exactly great when projects start to expand and testing becomes useful.
 

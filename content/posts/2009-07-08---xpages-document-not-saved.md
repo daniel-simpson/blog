@@ -10,7 +10,7 @@ tags:
 - "domino"
 - "notes"
 - "xpages"
-description: "This is a follow up to my previous post: When is a save not a save?"
+description: "*This is a follow up to my previous post: 'When is a save not a save?'*"
 ---
 *This is a follow up to my previous post: "When is a save not a save?"*
 

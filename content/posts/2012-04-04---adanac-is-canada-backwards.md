@@ -10,7 +10,7 @@ tags:
 - "travel"
 - "rant"
 - "canada"
-description: "Today marks the one month point of me starting my new life in Canada and there have been certain things that I just can't get my head around."
+description: "Today marks the one month point of me starting my new life in Canada and there have been certain things that I just can't get my head around.  Granted I have been living in London (England, not Ontario) for the past two years and the city is significantly bigger, older and more established, but sometimes I just find myself saying: 'Seriously?'"
 ---
 Today marks the one month point of me starting my new life in Canada and there have been certain things that I just can't get my head around.  Granted I have been living in London (England, not Ontario) for the past two years and the city is significantly bigger, older and more established, but sometimes I just find myself saying: "Seriously?"
 

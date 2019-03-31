@@ -8,7 +8,7 @@ slug: "/posts/2012/logitech-illuminated-keyboard/"
 tags:
 - "development"
 - "life"
-description: "**The greatest keyboard ever made.** It's a little bit more expensive but it is most definitely worth it.  The keyboard action is so comfortable, the form factor is nice and slender.  The back-lit keys are a little bit unnecessary but it does add a nice effect."
+description: "**The greatest keyboard ever made.** It's a little bit more expensive but it is most definitely worth it.  The keyboard action is so comfortable, the form factor is nice and slender.  The back-lit keys are a little bit unnecessary but it does add a nice effect."
 ---
 **The greatest keyboard ever made.** It's a little bit more expensive but it is most definitely worth it.  The keyboard action is so comfortable, the form factor is nice and slender.  The back-lit keys are a little bit unnecessary but it does add a nice effect.
 

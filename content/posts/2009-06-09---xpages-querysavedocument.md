@@ -10,7 +10,7 @@ tags:
 - "xpages"
 - "ibm"
 - "lotus"
-description: "More playing with XPages and I've come across another anomily."
+description: "More playing with XPages and I've come across another anomily."
 ---
 More playing with XPages and I've come across another anomily.
 

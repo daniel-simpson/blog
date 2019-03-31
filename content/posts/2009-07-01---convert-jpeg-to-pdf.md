@@ -12,7 +12,7 @@ tags:
 - "java"
 - "jpeg"
 - "pdf"
-description: "I had the requirement to export data to a PDF document recently, which involved plotting data from a Domino database over an map that was stored in JPEG format."
+description: "I had the requirement to export data to a PDF document recently, which involved plotting data from a Domino database over an map that was stored in JPEG format."
 ---
 I had the requirement to export data to a PDF document recently, which involved plotting data from a Domino database over an map that was stored in JPEG format.
 

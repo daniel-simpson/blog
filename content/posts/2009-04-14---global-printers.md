@@ -10,7 +10,7 @@ tags:
 - "windows"
 - "microsoft"
 - "printers"
-description: "Recently I have been trying to add a printer on a server available to all users, using the add printer wizard with no luck."
+description: "Recently I have been trying to add a printer on a server available to all users, using the add printer wizard with no luck."
 ---
 Recently I have been trying to add a printer on a server available to all users, using the add printer wizard with no luck.
 

@@ -9,7 +9,7 @@ tags:
 - "sql"
 - "stored-procedures"
 - "rant"
-description: "Having just started a new job where I'll be working on a particular product for some time, I've spent the last couple of days reviewing the code base, documentation and database structure."
+description: "Having just started a new job where I'll be working on a particular product for some time, I've spent the last couple of days reviewing the code base, documentation and database structure."
 ---
 Having just started a new job where I'll be working on a particular product for some time, I've spent the last couple of days reviewing the code base, documentation and database structure.
 

@@ -12,7 +12,7 @@ tags:
 - "javascript"
 - "mobile"
 - "jquery-mobile"
-description: "The more I play with it, the less I like it.  The concept is nice and all, but it's too inflexible."
+description: "The more I play with it, the less I like it.  The concept is nice and all, but it's too inflexible."
 ---
 The more I play with it, the less I like it.  The concept is nice and all, but it's too inflexible.
 

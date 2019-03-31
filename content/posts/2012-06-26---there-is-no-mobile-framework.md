@@ -9,7 +9,7 @@ tags:
 - "mobile"
 - "css"
 - "development"
-description: "When it comes to developing websites for mobile devices, there is no set framework.  There are tools, helpers, [quasi-frameworks](http://jquerymobile.com/), but there is no specific *framework* for developing these applications."
+description: "When it comes to developing websites for mobile devices, there is no set framework.  There are tools, helpers, [quasi-frameworks](http://jquerymobile.com/), but there is no specific *framework* for developing these applications."
 ---
 When it comes to developing websites for mobile devices, there is no set framework.  There are tools, helpers, [quasi-frameworks](http://jquerymobile.com/), but there is no specific *framework* for developing these applications.
 

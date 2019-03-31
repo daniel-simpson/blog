@@ -7,7 +7,7 @@ slug: "/posts/2009/notes-really-has-to-go/"
 
 tags:
 - "old"
-description: "Further to my post a few days ago..."
+description: "Further to my post a few days ago..."
 ---
 Further to my post a few days ago...
 

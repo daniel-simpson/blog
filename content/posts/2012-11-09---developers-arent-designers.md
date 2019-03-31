@@ -9,7 +9,7 @@ tags:
 - "development"
 - "design"
 - "rant"
-description: "As chaotic as the advertising world is, working at a couple of agencies in London gave me perspective and a lot of insight into the way things should be done; sometimes this was done inversely: I could see what was being done and realised that it wasn't exactly the right way to do it, but it made me realise a way that what was being done could be adapted to a more practical way."
+description: "As chaotic as the advertising world is, working at a couple of agencies in London gave me perspective and a lot of insight into the way things should be done; sometimes this was done inversely: I could see what was being done and realised that it wasn't exactly the right way to do it, but it made me realise a way that what was being done could be adapted to a more practical way."
 ---
 As chaotic as the advertising world is, working at a couple of agencies in London gave me perspective and a lot of insight into the way things should be done; sometimes this was done inversely: I could see what was being done and realised that it wasn't exactly the right way to do it, but it made me realise a way that what was being done could be adapted to a more practical way.
 

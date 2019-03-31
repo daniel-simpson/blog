@@ -8,7 +8,7 @@ slug: "/posts/2012/what-was-lincoln-going-to-see-the-night-he-was-assassinated/"
 tags:
 - "questions"
 - "life"
-description: "I have absolutely no idea why this question even came to me but I felt compelled to find an answer, it wasn't hard.  But interesting nonetheless."
+description: "I have absolutely no idea why this question even came to me but I felt compelled to find an answer, it wasn't hard.  But interesting nonetheless."
 ---
 I have absolutely no idea why this question even came to me but I felt compelled to find an answer, it wasn't hard.  But interesting nonetheless.
 

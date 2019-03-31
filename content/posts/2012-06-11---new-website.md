@@ -8,7 +8,7 @@ slug: "/posts/2012/new-website/"
 tags:
 - "life"
 - "blog"
-description: "I'm making the move from my old website to my new one, and didn't want to lose all my data so here's a snap shot of my old "About" page, which I'll get around to setting up on this site at some point."
+description: "I'm making the move from my old website to my new one, and didn't want to lose all my data so here's a snap shot of my old 'About' page, which I'll get around to setting up on this site at some point."
 ---
 I'm making the move from my old website to my new one, and didn't want to lose all my data so here's a snap shot of my old "About" page, which I'll get around to setting up on this site at some point.
 
