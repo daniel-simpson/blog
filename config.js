@@ -8,7 +8,7 @@ module.exports = {
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: "UA-73379983-2",
+  googleAnalyticsId: "UA-25382310-1",
   menu: [
     {
       label: "Articles",
@@ -31,7 +31,7 @@ module.exports = {
     contacts: {
       email: "hello@brendanmckenzie.com",
       twitter: "officialbmck",
-      github: "brendanmckenzie",
+      github: "brendanmckenzie"
     }
   }
 };
