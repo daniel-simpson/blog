@@ -9,7 +9,7 @@ tags:
 - "programming"
 - "asp.net"
 - "umbraco"
-description: "[Umbraco](http://umbraco.com/) is a powerful CMS that isn't overly intrusive.  It can work nicely side-by-side your web appliction providing a nice and easy way to manage dynamic content pages.  The latest version also has a nice fresh UI."
+description: "Umbraco is a powerful CMS that isn't overly intrusive.  It can work nicely side-by-side your web appliction providing a nice and easy way to manage dynamic content pages.  The latest version also has a nice fresh UI."
 ---
 [Umbraco](http://umbraco.com/) is a powerful CMS that isn't overly intrusive.  It can work nicely side-by-side your web appliction providing a nice and easy way to manage dynamic content pages.  The latest version also has a nice fresh UI.
 
@@ -37,7 +37,7 @@ There should also be a validation tool to allow a developer to quickly verify th
 
 What I'm thinking is something like...
 
-{% highlight json %}
+```json
 {
     "project": "MyUmbracoApp.Web.UI",
     "author": "Brendan McKenzie",
@@ -103,4 +103,4 @@ What I'm thinking is something like...
         }
     ]
 }
-{% endhighlight %}
+```

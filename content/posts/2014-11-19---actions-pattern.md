@@ -29,6 +29,7 @@ There are instances where one class may contain multiple `Execute` methods, but 
 
 Now for an example...
 
+```csharp
     namespace MyApp
     {
         public interface IAction { }
@@ -83,3 +84,4 @@ Now for an example...
             }
         }
     }
+```

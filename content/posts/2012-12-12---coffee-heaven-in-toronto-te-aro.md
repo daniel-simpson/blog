@@ -8,7 +8,7 @@ category: "Travel"
 tags:
 - "coffee"
 - "toronto"
-description: "I am on a mission to find good coffee using [Flat White café](http://www.flatwhitecafe.com/) in Soho (London, UK) as my benchmark.  I thought it was impossible here in Toronto, but I was wrong.  Here's my finding from the delightful [Te Aro Coffee Roasters](http://www.te-aro.ca/) on Queens East and Ossington."
+description: "I am on a mission to find good coffee using Flat White café in Soho (London, UK) as my benchmark.  I thought it was impossible here in Toronto, but I was wrong.  Here's my finding from the delightful Te Aro Coffee Roasters on Queens East and Ossington."
 ---
 I am on a mission to find good coffee using [Flat White café](http://www.flatwhitecafe.com/) in Soho (London, UK) as my benchmark.  I thought it was impossible here in Toronto, but I was wrong.  Here's my finding from the delightful [Te Aro Coffee Roasters](http://www.te-aro.ca/) on Queens East and Ossington.
 

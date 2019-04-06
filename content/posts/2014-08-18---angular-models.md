@@ -9,7 +9,7 @@ tags:
 - "programming"
 - "javascript"
 - "angularjs"
-description: "I was looking for a method to abstract away integrating my RESTful services for regular CRUD operations.  There's [ngResource](https://docs.angularjs.org/api/ngResource/service/$resource), but it's a bit voodoo and restrictive.  I wanted to come up with a solution that was a bit more simplictic that's also not surrounded by magic."
+description: "I was looking for a method to abstract away integrating my RESTful services for regular CRUD operations.  There's ngResource, but it's a bit voodoo and restrictive.  I wanted to come up with a solution that was a bit more simplictic that's also not surrounded by magic."
 ---
 I was looking for a method to abstract away integrating my RESTful services for regular CRUD operations.  There's [ngResource](https://docs.angularjs.org/api/ngResource/service/$resource), but it's a bit voodoo and restrictive.  I wanted to come up with a solution that was a bit more simplictic that's also not surrounded by magic.
 

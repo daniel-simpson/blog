@@ -8,7 +8,7 @@ slug: "/posts/2012/git-log-oddity/"
 tags:
 - "development"
 - "git"
-description: "I love git, nothing will change that.  I just came across some odd functionality today.  I use the command line client most of the time, though it's getting a bit tiring so I will probably switch back to using [SmartGit](http://www.syntevo.com/smartgit/) again soon."
+description: "I love git, nothing will change that.  I just came across some odd functionality today.  I use the command line client most of the time, though it's getting a bit tiring so I will probably switch back to using SmartGit again soon."
 ---
 I love git, nothing will change that.  I just came across some odd functionality today.  I use the command line client most of the time, though it's getting a bit tiring so I will probably switch back to using [SmartGit](http://www.syntevo.com/smartgit/) again soon.
 

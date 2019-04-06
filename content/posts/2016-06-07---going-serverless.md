@@ -11,7 +11,7 @@ tags:
 - "concepts"
 - "lambda"
 - "contentful"
-description: "I work for a digital agency - [Deepend](http://www.deepend.com.au).  We primarily build and maintain content managed websites for clients.  We are platform and technology agnostic meaning we deal with a lot of different programming languages, operating systems and databases.  That's great for me because it gives me the freedom to play with a whole assortment of toys."
+description: "I work for a digital agency - Deepend.  We primarily build and maintain content managed websites for clients.  We are platform and technology agnostic meaning we deal with a lot of different programming languages, operating systems and databases.  That's great for me because it gives me the freedom to play with a whole assortment of toys."
 ---
 I work for a digital agency - [Deepend](http://www.deepend.com.au).  We primarily build and maintain content managed websites for clients.  We are platform and technology agnostic meaning we deal with a lot of different programming languages, operating systems and databases.  That's great for me because it gives me the freedom to play with a whole assortment of toys.
 

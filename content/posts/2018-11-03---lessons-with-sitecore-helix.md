@@ -9,7 +9,7 @@ tags:
 - "sitecore"
 - "development"
 - "web"
-description: "Before we discovered the [Helix framework](https://helix.sitecore.net/) developed by Sitecore our projects were disorganised, to say the least.  We had no real guideline to follow when building out our solutions.  Helix changed that."
+description: "Before we discovered the Helix framework developed by Sitecore our projects were disorganised, to say the least.  We had no real guideline to follow when building out our solutions.  Helix changed that."
 ---
 Before we discovered the [Helix framework](https://helix.sitecore.net/) developed by Sitecore our projects were disorganised, to say the least.  We had no real guideline to follow when building out our solutions.  Helix changed that.
 

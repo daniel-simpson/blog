@@ -9,7 +9,7 @@ tags:
 - "travel"
 - "life"
 - "africa"
-description: "Had someone asked me a year ago where Mount Kilimanjaro was, I probably would have said it was somewhere in Asia.  Now I am 14 weeks out from climbing that very mountain with my beautiful girlfriend, the one and only Lil' Miss Planet - [Ivona](http://www.lilmissplanet.com)."
+description: "Had someone asked me a year ago where Mount Kilimanjaro was, I probably would have said it was somewhere in Asia.  Now I am 14 weeks out from climbing that very mountain with my beautiful girlfriend, the one and only Lil' Miss Planet - Ivona."
 ---
 Had someone asked me a year ago where Mount Kilimanjaro was, I probably would have said it was somewhere in Asia.  Now I am 14 weeks out from climbing that very mountain with my beautiful girlfriend, the one and only Lil' Miss Planet - [Ivona](http://www.lilmissplanet.com).
 

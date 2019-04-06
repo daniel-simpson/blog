@@ -10,7 +10,7 @@ tags:
 - "rt"
 - "microsoft"
 - "surface"
-description: "So today I bit the bullet and pre-ordered a [Microsoft Surface](http://www.microsoft.com/surface/). I was always opposed to buying an [Apple iPad](http://www.apple.com/ipad/) because I couldn't justify the cost for something I doubted I would get much use out of. The difference with the Surface is that it's a Microsoft product and I'm a Microsoft developer. I have toyed with objective-c and it's just a pain, developer support (documentation, tools, updates, tutorials, etc...) from Microsoft is 100 times that of Apple's and .NET is a very, *very* nice environment to develop with."
+description: "So today I bit the bullet and pre-ordered a Microsoft Surface. I was always opposed to buying an Apple iPad because I couldn't justify the cost for something I doubted I would get much use out of. The difference with the Surface is that it's a Microsoft product and I'm a Microsoft developer. I have toyed with objective-c and it's just a pain, developer support (documentation, tools, updates, tutorials, etc...) from Microsoft is 100 times that of Apple's and .NET is a very, very nice environment to develop with."
 ---
 So today I bit the bullet and pre-ordered a [Microsoft Surface](http://www.microsoft.com/surface/). I was always opposed to buying an [Apple iPad](http://www.apple.com/ipad/) because I couldn't justify the cost for something I doubted I would get much use out of. The difference with the Surface is that it's a Microsoft product and I'm a Microsoft developer. I have toyed with objective-c and it's just a pain, developer support (documentation, tools, updates, tutorials, etc...) from Microsoft is 100 times that of Apple's and .NET is a very, *very* nice environment to develop with.
 

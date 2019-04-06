@@ -23,10 +23,14 @@ Enter [Heroku](http://www.heroku.com), where those two issues were addressed.
 
 I had a bit of trouble transitioning the site to run on Heroku (I'm not a Ruby dev and haven't paid too much attention to these technologies).  I ended up following [this article](http://mwmanning.com/2011/11/29/Run-Your-Jekyll-Site-On-Heroku.html), however there was one issue with it.  I followed "Method 1" since "rack-jekyll" required Jekyll <2.0, which brought me back to point 2 above.  The only change to what's in that article is what goes in the `Procfile` file. Instead of:
 
-    web: bundle exec jekyll --server -p $PORT
+```gemfile
+web: bundle exec jekyll --server -p $PORT
+```
 
 It should be
 
+```gemfile
     web: bundle exec jekyll server --port $PORT
+```
 
 And that's it.  All the rest is valid.  This website is now entirely static content.  I even started using Amazon's CloudFront for hosting media files, more for the fun of it than because of traffic.

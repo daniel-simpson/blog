@@ -10,7 +10,7 @@ tags:
 - "nyc"
 - "travel"
 - "three-days-in"
-description: "This is one city that's always been on my list, and this weekend just gone I had the pleasure of spending it there with my beautiful [Lil Miss Planet](http://www.lilmissplanet.com).  Everyone I have spoken to tells me how different the Americans from east coast are from those on the west, they weren't wrong.  There certainly was the US feel about the place but it was nothing like L.A."
+description: "This is one city that's always been on my list, and this weekend just gone I had the pleasure of spending it there with my beautiful Lil Miss Planet.  Everyone I have spoken to tells me how different the Americans from east coast are from those on the west, they weren't wrong.  There certainly was the US feel about the place but it was nothing like L.A."
 ---
 This is one city that's always been on my list, and this weekend just gone I had the pleasure of spending it there with my beautiful [Lil Miss Planet](http://www.lilmissplanet.com).  Everyone I have spoken to tells me how different the Americans from east coast are from those on the west, they weren't wrong.  There certainly was the US feel about the place but it was nothing like L.A.
 

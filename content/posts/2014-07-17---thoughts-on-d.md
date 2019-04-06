@@ -9,7 +9,7 @@ tags:
 - "d"
 - "programming"
 - "development"
-description: "I have spent the last few days learning a bit of [D](http://dlang.org), I have [contributed to a library](https://github.com/brendanmckenzie/ddb), [written my own library](https://github.com/brendanmckenzie/scrypt) and developed a basic understanding of the language.  It comes across as a very powerful and developer-friendly language. However there are a few downsides to it."
+description: "I have spent the last few days learning a bit of D, I have contributed to a library, written my own library and developed a basic understanding of the language.  It comes across as a very powerful and developer-friendly language. However there are a few downsides to it."
 ---
 I have spent the last few days learning a bit of [D](http://dlang.org), I have [contributed to a library](https://github.com/brendanmckenzie/ddb), [written my own library](https://github.com/brendanmckenzie/scrypt) and developed a basic understanding of the language.  It comes across as a very powerful and developer-friendly language. However there are a few downsides to it.
 

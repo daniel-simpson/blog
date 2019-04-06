@@ -8,7 +8,7 @@ slug: "/posts/2013/unique-file-name/"
 tags:
 - "csharp"
 - ".net"
-description: "I came across a curious piece of code as I was working my way through the project I work day-in-day-out on; not that curious pieces of code [are rare](http://bad-code.com) in this project."
+description: "I came across a curious piece of code as I was working my way through the project I work day-in-day-out on; not that curious pieces of code are rare in this project."
 ---
 I came across a curious piece of code as I was working my way through the project I work day-in-day-out on; not that curious pieces of code [are rare](http://bad-code.com) in this project.
 
@@ -16,28 +16,32 @@ This one made me stop and think.  I knew it was wrong, but how could I make it r
 
 Here's the code I came across.
 
-    int count = 1;
-    while (count < 1000)
+```csharp
+int count = 1;
+while (count < 1000)
+{
+    string tmp = Path.Combine(this.ImagesPhysicalFolder, modifiedFileName) + count.ToString() + ".jpg";
+    if (!File.Exists(tmp))
     {
-        string tmp = Path.Combine(this.ImagesPhysicalFolder, modifiedFileName) + count.ToString() + ".jpg";
-        if (!File.Exists(tmp))
-        {
-            modifiedFileName = tmp;
-            break;
-        }
-        ++count;
+        modifiedFileName = tmp;
+        break;
     }
+    ++count;
+}
+```
 
 It's a little verbose, and calling the `Path.Combine()` inside the loop could be costly.  This is the solution I came up with.
 
-    var root = ...;
+```csharp
+var root = ...;
 
-    /* snip */
+/* snip */
 
-    var count = 0;
-    var template = Path.Combine(root, "file_%%.jpg");
-    var filename = template.Replace("%%", (count++).ToString());
-    while (File.Exists(filename))
-    {
-        filename = template.Replace("%%", (count++).ToString());
-    }
+var count = 0;
+var template = Path.Combine(root, "file_%%.jpg");
+var filename = template.Replace("%%", (count++).ToString());
+while (File.Exists(filename))
+{
+    filename = template.Replace("%%", (count++).ToString());
+}
+```

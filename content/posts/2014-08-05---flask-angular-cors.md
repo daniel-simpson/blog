@@ -12,7 +12,7 @@ tags:
 - "flask"
 - "programming"
 - "development"
-description: "I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that [Jeff Atwood](http://www.codinghorror.com) was right in saying 'Storage is cheap, programmers are expensive.'  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to [Flask](http://flask.pocoo.com) given my familiarity with it."
+description: "I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that Jeff Atwood was right in saying 'Storage is cheap, programmers are expensive.'  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to Flask given my familiarity with it."
 ---
 I am currently developing a website that will entirely be a Single Page Application (SPA).  I started building the back-end in D and the front-end in AngularJS.  I decided after a couple of weeks that [Jeff Atwood](http://www.codinghorror.com) was right in saying "Storage is cheap, programmers are expensive."  Though D is a useful language, it was taking me too long to produce useful RESTful API endpoints, so I decided to make the switch to [Flask](http://flask.pocoo.com) given my familiarity with it.
 
@@ -22,15 +22,19 @@ When I made the switch to Flask I changed the structure of the hosting so that t
 
 The solution was simple in the end.  All I needed to do was add the following code to my Angular module `.config()` method.
 
-    $httpProvider.defaults.withCredentials = true;
+```js
+$httpProvider.defaults.withCredentials = true;
+```
 
 On the server-side initially I was using Flask-CORS but it was frustrating to have to decorate all my REST endpoints (essentially every single route in my application) with `@cross_domain()`, so I ended up writing my own basic Flask context processor.
 
-    @app.after_request
-    def add_cors_headers(response):
-        response.headers.add('Access-Control-Allow-Origin', 'www.example.com')
-        response.headers.add('Access-Control-Allow-Credentials', 'true')
-        response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
-        return response
+```python
+@app.after_request
+def add_cors_headers(response):
+    response.headers.add('Access-Control-Allow-Origin', 'www.example.com')
+    response.headers.add('Access-Control-Allow-Credentials', 'true')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
+    return response
+```
 
 The `Access-Control-Allow-Credentials` is necessary when specifying `withCredentials` on `$http` requests.

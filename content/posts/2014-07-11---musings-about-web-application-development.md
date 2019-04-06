@@ -11,7 +11,7 @@ tags:
 - "cloud"
 - "development"
 - "security"
-description: "*In the ideal world* is a great way to start any thought, then reality comes in and kills all your big ideas."
+description: "In the ideal world is a great way to start any thought, then reality comes in and kills all your big ideas."
 ---
 *In the ideal world* is a great way to start any thought, then reality comes in and kills all your big ideas.
 
