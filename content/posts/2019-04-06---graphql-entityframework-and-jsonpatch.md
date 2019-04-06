@@ -1,5 +1,5 @@
 ---
-title: GraphQL, Entity Framework and JSON Patch
+title: GraphQL, Entity Framework Core and JSON Patch
 date: "2019-04-06"
 template: "post"
 draft: false
@@ -10,7 +10,7 @@ tags:
 - "csharp"
 - ".net"
 - "graphql"
-description: "Implementing an abstracted method of CRUD operations with Entity Framework and JSON Patch"
+description: "Implementing an abstracted method of CRUD operations with GraphQL, Entity Framework Core and JSON Patch"
 ---
 For our business – [Take Off Go](https://www.takeoffgo.com/) – I have built a backend system for handling everything from our client relationship management, to finance, to trip management.
 
