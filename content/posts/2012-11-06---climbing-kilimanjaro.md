@@ -6,17 +6,18 @@ draft: false
 slug: "/posts/2012/climbing-kilimanjaro/"
 category: "Travel"
 tags:
-- "mountain-climbing"
-- "africa"
-- "travel"
-- "kilimanjaro"
+  - "mountain-climbing"
+  - "africa"
+  - "travel"
+  - "kilimanjaro"
 description: "The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word 'Kilimankyaro' meaning 'difficult mountain to climb;' had we known that before we climbed, maybe we might have thought it better not to try.  Luckily for us - we found out a few days after we started our ascent: far too late to turn around."
 ---
-The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word "Kilimankyaro" meaning "difficult mountain to climb;" had we known that before we climbed, maybe we might have thought it better not to try.  Luckily for us - we found out a few days after we started our ascent: far too late to turn around.
+
+The summit of Mount Kilimanjaro is the highest point in all of Africa at 5,985m above sea level (ASL). One believed origin of the name is derived from the Chaga word "Kilimankyaro" meaning "difficult mountain to climb;" had we known that before we climbed, maybe we might have thought it better not to try. Luckily for us - we found out a few days after we started our ascent: far too late to turn around.
 
 We were fit, we'd done our preparations and we had our prescription ([Diamox](http://en.wikipedia.org/wiki/Acetazolamide)). We were ready to go. The Kilimanjaro climb is known as being more a hike than a climb, but it still takes a great deal of physical and mental strength to make it to the top. At the end of the day, it's a mountain, and for us who don't have the years of evolution to prepare ourselves for working at higher than average altitudes, we're going to have a task ahead of ourselves.
 
-We spent the night in Arusha, Tanzania (the half-way point between Cairo, Egypt and Cape Town, South Africa) after arriving at 4pm the day before we begun our trek.  Before bed, we consumed as many carbohydrates as our bodies would allow not knowing what the food would be like on the trek, drank plenty of water and had our last showers for a week (in hindsight, I probably would have doubled the amount of time I spent in this shower), finalised the packing of our bags and went to bed. I tried not to think too much about the climb, and actually managed to get a decent nights sleep.
+We spent the night in Arusha, Tanzania (the half-way point between Cairo, Egypt and Cape Town, South Africa) after arriving at 4pm the day before we begun our trek. Before bed, we consumed as many carbohydrates as our bodies would allow not knowing what the food would be like on the trek, drank plenty of water and had our last showers for a week (in hindsight, I probably would have doubled the amount of time I spent in this shower), finalised the packing of our bags and went to bed. I tried not to think too much about the climb, and actually managed to get a decent nights sleep.
 
 # Day 1
 
@@ -30,19 +31,19 @@ We woke early to meet our guides &ndash; Emmanuel (lead) and Father Fred (assist
 
 There was an hour-long drive from Arusha to Macheme, we had plenty of time to get to know our guides and ask hundreds of questions. I managed to keep the nerves under wraps still expecting it to be a piece of cake, even as we neared the mountain and the snow-capped peaks soared overhead.
 
-After handing over our packs to be carried up the mountain by our porters we signed in and waited while Emmanuel and Father Fred organised the porters.  We made use of the last of the running water and flushing toilets that we would have for a week and spent our time scoping out all the other climbers that were at the gate making the same preparations.  It was at this point that we both started to become aware of how glad we were to not be climbing in a large group, knowing it would only be [Ivona](http://www.lilmissplanet.com) and I in our tent, and two guides to look after us.
+After handing over our packs to be carried up the mountain by our porters we signed in and waited while Emmanuel and Father Fred organised the porters. We made use of the last of the running water and flushing toilets that we would have for a week and spent our time scoping out all the other climbers that were at the gate making the same preparations. It was at this point that we both started to become aware of how glad we were to not be climbing in a large group, knowing it would only be [Ivona](http://www.lilmissplanet.com) and I in our tent, and two guides to look after us.
 
-After what seemed like hours of waiting (which was more likely about 30 minutes) we were on our way.  Father Fred was with us to start with, we waved good bye to our porters &ndash; who on a daily basis would leave at camp in the morning, then an hour or so later after packing up everything would fly by. We would see them again in the evening when we arrived at the next camp, with everything set up for us. &ndash; and begun our hike.
+After what seemed like hours of waiting (which was more likely about 30 minutes) we were on our way. Father Fred was with us to start with, we waved good bye to our porters &ndash; who on a daily basis would leave at camp in the morning, then an hour or so later after packing up everything would fly by. We would see them again in the evening when we arrived at the next camp, with everything set up for us. &ndash; and begun our hike.
 
 To start with I was a little frustrated with our pace, it was slow... really slow. But I kept telling myself that it was a good thing and after a while I got used to pole-pole (pronounced 'pol-eh pol-eh', Swahili for "slowly").
 
-This day we were making our way from Macheme Gate to Macheme Camp through the rainforest. The air was damp, and it was hot. Our [CamelBaks](http://www.camelbak.com/) were full and we had no trouble keeping ourselves hydrated given the amount we were sweating. 
+This day we were making our way from Macheme Gate to Macheme Camp through the rainforest. The air was damp, and it was hot. Our [CamelBaks](http://www.camelbak.com/) were full and we had no trouble keeping ourselves hydrated given the amount we were sweating.
 
 ![Macheme Gate](//images.contentful.com/olq6un8g3480/2oHSyzmI7aq4yCwkKOouqc/afc7db7b51a11e37a4109d2d93a3c520/macheme-01.jpg)
 
 I have to take this moment to say how impressed I was with my Lulu Lemon shirt that I wore for the entire week, it's made with silver lining to help kill bacteria (which leads to odour), after a week of sweating, the t-shirt retained a neutral smell (something that could not be said of our boots).
 
-We had a quick stop for lunch and finished our packed lunches before continuing our way up.  We arrived at Macheme Camp in the early evening, signed in then started looking for our camp learning that the best way to find our camp was to yell "GORONCHO!" (the name of one of our porters) who would respond loudly: "EH?"
+We had a quick stop for lunch and finished our packed lunches before continuing our way up. We arrived at Macheme Camp in the early evening, signed in then started looking for our camp learning that the best way to find our camp was to yell "GORONCHO!" (the name of one of our porters) who would respond loudly: "EH?"
 
 The nightly ritual took place: drop our bags in our tent, go to the bathroom (thankfully, Goroncho was our saviour - he carried a Porta-Pottie up the mountain for us and every day set it up in its own tent. When climbing a mountain you don't expect luxuries like this, but it was greatly appreciated!), wash up, relax, eat dinner, sleep (bathroom, sleep, bathroom, sleep. Altitude and Diamox reeks havoc on your metabolism!).
 
@@ -56,11 +57,11 @@ The nightly ritual took place: drop our bags in our tent, go to the bathroom (th
 
 Our day started off slowly (as usual) hiking through the marsh land. Nothing extraordinary to report from this day, though it did include the first bit of actual climbing.
 
-We made our way to Shira Cave Camp (not to be confused with Shira Hut Camp which is used on a different trail) and arrived as the sun was starting to go down.  The camp was set up very much in the open so it was much colder than the previous nights camp which had the rainforest canopy to keep the heat in.
+We made our way to Shira Cave Camp (not to be confused with Shira Hut Camp which is used on a different trail) and arrived as the sun was starting to go down. The camp was set up very much in the open so it was much colder than the previous nights camp which had the rainforest canopy to keep the heat in.
 
 ![Shira Cave Camp](//images.contentful.com/olq6un8g3480/2m8eBrQmCEaWsKcKOeUMOu/f201960fe0056a6c00386f7982efbeac/shira-hut-01.jpg)
 
-Nature called in the middle of the night so I made my way to our private bathroom, on my way back to the tent I had to stop and take in the moment.  The coldness seemed to have lifted (it was probably 3-4am; we didn't have watches or clocks of any kind so most times throughout are estimates) and I took a moment to look around, the first thing I noticed was how amazing the stars were.  Having grown up in the city and only spent very short stints camping out in the wilderness the unpolluted star-scape never fails to take my breath away.
+Nature called in the middle of the night so I made my way to our private bathroom, on my way back to the tent I had to stop and take in the moment. The coldness seemed to have lifted (it was probably 3-4am; we didn't have watches or clocks of any kind so most times throughout are estimates) and I took a moment to look around, the first thing I noticed was how amazing the stars were. Having grown up in the city and only spent very short stints camping out in the wilderness the unpolluted star-scape never fails to take my breath away.
 
 # Day 3
 
@@ -70,7 +71,7 @@ Nature called in the middle of the night so I made my way to our private bathroo
 
 **Altitude: 3,200m to 3,940m (acclimatisation at 4,600m)**
 
-We begun our hike in the warmth of the sunlight (me only in a t-shirt, but with sufficient additional warmth in my backpack if needed) leading away from Shira Cave camp towards Lava Tower where we would spend lunch acclimatising to serious altitude. As the wind started to pick up and the sun decided to hide behind the clouds more than show her pretty face I had to slowly layer on more and more. Although I was by no means comfortably warm, I wasn't anywhere near freezing; Ivona on the other hand was starting to feel the effects of the cold and altitude. After an endless hike through the Alpine Desert we arrived at Lava Tower which sits at 4,600m above sea level. Upon arrival we hastily made our way into the mess tent so we would no longer be hammered by the icy cold wind. At the time I felt fine and scoffed down as much lunch as I could. Ivona also was able to eat but was definitely not feeling 100%. The one noticeable effect that the altitude had on me was difficulty breathing.  If I took a deep breath, my lungs hurt, they almost felt a bit like burning.  I have in a previous life been a smoker (of cigarettes) and it felt absolutely nothing like that, or the feeling of a short jog after smoking a few. My lungs just hurt, and it wasn't very comfortable.
+We begun our hike in the warmth of the sunlight (me only in a t-shirt, but with sufficient additional warmth in my backpack if needed) leading away from Shira Cave camp towards Lava Tower where we would spend lunch acclimatising to serious altitude. As the wind started to pick up and the sun decided to hide behind the clouds more than show her pretty face I had to slowly layer on more and more. Although I was by no means comfortably warm, I wasn't anywhere near freezing; Ivona on the other hand was starting to feel the effects of the cold and altitude. After an endless hike through the Alpine Desert we arrived at Lava Tower which sits at 4,600m above sea level. Upon arrival we hastily made our way into the mess tent so we would no longer be hammered by the icy cold wind. At the time I felt fine and scoffed down as much lunch as I could. Ivona also was able to eat but was definitely not feeling 100%. The one noticeable effect that the altitude had on me was difficulty breathing. If I took a deep breath, my lungs hurt, they almost felt a bit like burning. I have in a previous life been a smoker (of cigarettes) and it felt absolutely nothing like that, or the feeling of a short jog after smoking a few. My lungs just hurt, and it wasn't very comfortable.
 
 ![On the way to Lava Tower](//images.contentful.com/olq6un8g3480/3cPcHBIcwMymiIgeeyuaY2/72574d5a7273763996a6a93d551d28eb/lava-tower-01.jpg)
 
@@ -90,9 +91,12 @@ Though I didn't manage to get much sleep that night (thanks to the headache, nau
 
 We started off with a short trek to the base of the Barranco wall which we could already see from camp. We tried to take photos and videos to help describe what it was like on the wall, but none of them even come close to doing it justice. The wall is the only real "climbing" part of the Macheme trek but it certainly was interesting. There were climbers, porters and guides all making their way up the wall at the same time. The porters leave camp after packing everything up which gives the climbers a bit of a head start, but then the porters speed past us after a couple of hours, and unfortunately that point of the day happened to be as we were climbing the wall. There were constant bottlenecks and traffic jams, we would have to stop for the porters, the porters would stop for us, it was carnage but after a couple of hours we finally reached the top of the wall for a quick break. I still can't understand how the porters make it up that wall with all the gear they carry.
 
-![Climbing the Barranco wall](//images.contentful.com/olq6un8g3480/JhPOGdM5ocik2kAMMQO6c/e7a773d900f4a71a32628f5f7453d53d/barranco-01.jpg)
+<figure class="float-right" style="width: 240px">
+	<img src="//images.contentful.com/olq6un8g3480/JhPOGdM5ocik2kAMMQO6c/e7a773d900f4a71a32628f5f7453d53d/barranco-01.jpg" alt="Climbing the Barranco wall">
+	<figcaption>Climbing the Barranco wall</figcaption>
+</figure>
 
-After our break we continued on a mostly downhill route towards camp. There was one point where we could see our camp and it looked really close, but unfortunately there was a huge valley in the way that we had to traverse. By this point in the hike I realised that someone *really* needs to come through the trek and install zip-lines.
+After our break we continued on a mostly downhill route towards camp. There was one point where we could see our camp and it looked really close, but unfortunately there was a huge valley in the way that we had to traverse. By this point in the hike I realised that someone _really_ needs to come through the trek and install zip-lines.
 
 We made it to Karanga camp at 3,900m ASL in the early evening, got settled then Baraka took us for a quick acclimatisation walk to 4,200m ASL. This time the altitude had very little effect on us and really raised our spirits, after an evening and morning that begun to fill us with doubts.
 
@@ -108,13 +112,13 @@ Later that night after questioning why there was so much yelling for "GORONCHO!"
 
 This were starting to get real now. We were only hours away from making our attempt on the summit. The plan was to walk for a few hours to Barafu camp, rest, have dinner, sleep then wake up at midnight for our attempt.
 
-We walked up the same hill we did our acclimatisation on the evening before then continued on to Barafu; Ivona continued with her task to pick up all the blue and yellow that were being dropped by a porter/guide/hiker with a ridiculously sweet tooth.  After a few hours we arrived at camp located at 4,600m ASL, signed in and made our way to our tents. 
+We walked up the same hill we did our acclimatisation on the evening before then continued on to Barafu; Ivona continued with her task to pick up all the blue and yellow that were being dropped by a porter/guide/hiker with a ridiculously sweet tooth. After a few hours we arrived at camp located at 4,600m ASL, signed in and made our way to our tents.
 
 ![Arriving at Barafu Hut camp](//images.contentful.com/olq6un8g3480/5rPUulGDm0qCQEQQg8scMi/d24123c724323d46d2dd6cb950627c78/barafu-hut-01.jpg)
 
-We had a quick snack, nap then woke up for dinner. Had a last little briefing with Emmanuel then went to our tent to try and get as much rest before we set-off. I can't speak for Ivona but from 6pm-midnight I managed to get at most 2 hours sleep. Thankfully, however, I was lying down the whole time so was plenty rested when we finally woke up at midnight. Well, I'm not sure if you would say we woke up, or were shaken aware fiercely by the winds ravaging our tent; I think the last dream I was having was something to do with being at sea as when I woke up I was being rocked as if I were on a boat. We would see just *how* windy it was when we came back from our attempt.
+We had a quick snack, nap then woke up for dinner. Had a last little briefing with Emmanuel then went to our tent to try and get as much rest before we set-off. I can't speak for Ivona but from 6pm-midnight I managed to get at most 2 hours sleep. Thankfully, however, I was lying down the whole time so was plenty rested when we finally woke up at midnight. Well, I'm not sure if you would say we woke up, or were shaken aware fiercely by the winds ravaging our tent; I think the last dream I was having was something to do with being at sea as when I woke up I was being rocked as if I were on a boat. We would see just _how_ windy it was when we came back from our attempt.
 
-We layered on, and I mean we *really* layered on. This is what I wore for the ascent. Bottoms: shoes, two pairs of thick socks, hiking boots, underpants, knee-length compression shorts, long-johns and snow pants. Tops: compression long-sleeve shirt, t-shirt, thermal long-sleeve t-shirt, regular long-sleeve t-shirt, fleece jumper and wind-proof jacket, with a spare down jacket in my bag as backup. Two pairs of gloves (woollen and snowboarding) and a beanie (tuque, bobcap, wool hat, stocking cap, whatever you want to call it).
+We layered on, and I mean we _really_ layered on. This is what I wore for the ascent. Bottoms: shoes, two pairs of thick socks, hiking boots, underpants, knee-length compression shorts, long-johns and snow pants. Tops: compression long-sleeve shirt, t-shirt, thermal long-sleeve t-shirt, regular long-sleeve t-shirt, fleece jumper and wind-proof jacket, with a spare down jacket in my bag as backup. Two pairs of gloves (woollen and snowboarding) and a beanie (tuque, bobcap, wool hat, stocking cap, whatever you want to call it).
 
 # Day 6
 
@@ -122,11 +126,11 @@ We layered on, and I mean we *really* layered on. This is what I wore for the as
 
 <!-- *Notes: Hike up/Sunrise/Breathing was fine/Wind/Mess tent/Summit/Jameson/Sliding back down/Lunch at Barafu/Long hike to Mekwa camp/Nap/Song when arriving back at camp/Coca cola* -->
 
-*Departure: 12:10am, Stellar point: 06:25am, Uhuru: 07:30am. Summit temp: -5C (approx), Ascent temp: -15C (average approx) with wind*
+_Departure: 12:10am, Stellar point: 06:25am, Uhuru: 07:30am. Summit temp: -5C (approx), Ascent temp: -15C (average approx) with wind_
 
 **Altitude: 4,600m to 5,985m (summit) to 3,100m**
 
-When we finally emerged from our tents into the howling wind we noticed something missing. The mess tent *was* situated right in front of our tent, but in the gusting wind it had come loose and was blown away. Initially I thought the porters had just taken it down, but the pegs hadn't held and some of the ropes snapped, luckily it blew down into a region that wasn't too windy and was caught on some rocks so it could be recovered.
+When we finally emerged from our tents into the howling wind we noticed something missing. The mess tent _was_ situated right in front of our tent, but in the gusting wind it had come loose and was blown away. Initially I thought the porters had just taken it down, but the pegs hadn't held and some of the ropes snapped, luckily it blew down into a region that wasn't too windy and was caught on some rocks so it could be recovered.
 
 We set off very, very slowly just after midnight (12:10 for those who must know everything). Slowly making our way out of camp, slowly making our way towards the constant incline that would lead us to the peak.
 
@@ -178,17 +182,20 @@ Our porters had another song to once again congratulate us and themselves and re
 
 From Mekwa camp to gate was only a few hours hike, we got one last look at what we achieved part of the way down. As we were getting close to gate there were more people around, women and children of the Chaga tribe. The women were cutting grass to take down the mountain to feed their goats and cows, the children were on the side of the road begging for chocolate.
 
-![One last look](//images.contentful.com/olq6un8g3480/1el95zn4eaIQ8UuusmEoAu/47703ede0a171c5e0bb1d08f3a0f3d10/last-look-01.jpg)
+<figure class="float-right">
+	<img src="//images.contentful.com/olq6un8g3480/1el95zn4eaIQ8UuusmEoAu/47703ede0a171c5e0bb1d08f3a0f3d10/last-look-01.jpg" alt="Ahhhhhhhhh.....">
+  <figcaption>One last look</figcaption>
+</figure>
 
 We arrived at Mekwa gate, signed out and bought some souvenirs. Then made our way through all the locals trying to trade my sunglasses and hat for paraphernalia - no chance. We arranged a place to hand out all the goods we'd brought from home for the porters. The clothes were neatly arranged then in order of seniority everyone went through picking what they wanted, it was good seeing that what we no longer needed/wanted would be put to good use.
 
 The previous day had been a slow reintroduction to "civilisation" and being around other people, and today we slowly made our way back to town. We passed through Moshi so I could buy a souvenir t-shirt of Mount Kilimanjaro - surprisingly no one on the mountain thought to sell t-shirts? Crazy, I know.
 
-Then we arrived back at our hotel in Arusha, the same one we stayed at the night before we started our climb. We went to our room, had very long *individual* showers then went down to have a celebratory Kilimanjaro Lager - the first one was on the house thanks, the hotel offers a free beer to all those who successfully reached the summit.
+Then we arrived back at our hotel in Arusha, the same one we stayed at the night before we started our climb. We went to our room, had very long _individual_ showers then went down to have a celebratory Kilimanjaro Lager - the first one was on the house thanks, the hotel offers a free beer to all those who successfully reached the summit.
 
-<p style="text-align:center">
-![Ahhhhhhhhh.....](//images.contentful.com/olq6un8g3480/2BJo0sZdUIcgo6meCygoyg/5b018626b08a78831631eb02cf96b1f7/beer-01.jpg)
-</p>
+<figure class="float-left">
+	<img src="//images.contentful.com/olq6un8g3480/2BJo0sZdUIcgo6meCygoyg/5b018626b08a78831631eb02cf96b1f7/beer-01.jpg" alt="Ahhhhhhhhh.....">
+</figure>
 
 And so ends my Kilimanjaro experience. Will I do it again? Not any time soon, but who knows? It was an experience and I'm glad I did it. A very big thank you to [Ivona](http://www.lilmissplanet.com) for taking me on the adventure of a lifetime and also to our friends at [Kensington Tours](http://www.kensingtontours.com/) and [High Peaks](http://highpeaks-expeditions.com/) for all their help and support in getting us up and down the mountain safely!
 

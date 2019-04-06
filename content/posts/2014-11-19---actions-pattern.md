@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/2014/actions-pattern/"
 
 tags:
-- "c-sharp"
+- "csharp"
 - "programming"
 - "development"
 description: "It's a terrible name, but maybe one day I'll figure a better one.  Either way..."

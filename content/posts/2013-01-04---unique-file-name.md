@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/2013/unique-file-name/"
 
 tags:
-- "c-sharp"
+- "csharp"
 - ".net"
 description: "I came across a curious piece of code as I was working my way through the project I work day-in-day-out on; not that curious pieces of code [are rare](http://bad-code.com) in this project."
 ---

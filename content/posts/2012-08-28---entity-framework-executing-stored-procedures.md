@@ -7,7 +7,7 @@ slug: "/posts/2012/entity-framework-executing-stored-procedures/"
 
 tags:
 - "development"
-- "c-sharp"
+- "csharp"
 - "entity-framework"
 - ".net"
 description: "Let's start with the code..."

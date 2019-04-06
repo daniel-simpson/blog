@@ -8,8 +8,8 @@ category: "Technology"
 tags:
 - "serverless"
 - "coreclr"
-- "dotnet"
-- "c#"
+- ".net"
+- "csharp"
 description: "I have been playing around a lot with AWS Lambda lately, writing most of my functions in Javascript.  It made me wonder what other languages/platforms would be well suited to such an environment.  Javascript works well because it's lightweight and flexible.  Lambda has the option for Java but has some performance issues due to the spinup time of the JVM."
 ---
 I have been playing around a lot with AWS Lambda lately, writing most of my functions in Javascript.  It made me wonder what other languages/platforms would be well suited to such an environment.  Javascript works well because it's lightweight and flexible.  Lambda has the option for Java but has some performance issues due to the spinup time of the JVM.

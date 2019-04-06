@@ -8,7 +8,7 @@ slug: "/posts/2012/c-sharp-five-asynchrony/"
 tags:
 - "development"
 - ".net"
-- "c#"
+- "csharp"
 - "async"
 description: "I'm a little late to the party on this one, but I just watched Anders Hejlsberg's announcement (*... from 2010*) on it and must say that I am very impressed."
 ---
