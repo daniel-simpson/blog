@@ -16,21 +16,21 @@ For our business – [Take Off Go](https://www.takeoffgo.com/) – I have built 
 
 We are small, we don't have a lot of requirements and not many people to answer to, so I am comfortable using a custom built system for these purposes rather than using an off-the-shelf solution.
 
-It also gives me an testbed to play with new technology.  This means that I have re-written functionality, some would say needlessly, but it's how I learn.
+It also gives me a testbed to play with new technology.  This means that I have re-written functionality, some would say needlessly, but it's how I learn.
 
 It started out around the same time .NET Core started, which means it's grown along with the platform.
 
-At its core there is athe [.NET Core Web API](https://dotnet.microsoft.com/) handling all the logic, a [Hangfire](https://www.hangfire.io/) scheduled task runner, a React interface, and recently a [gRPC](https://grpc.io/) endpoint.
+At its core, there is a [.NET Core Web API](https://dotnet.microsoft.com/) handling all the logic, a [Hangfire](https://www.hangfire.io/) scheduled task runner, a React interface, and recently a [gRPC](https://grpc.io/) endpoint.
 
 Initially, I started with a standard Entity Framework setup, with ASP.NET Controllers for all my entities, talking to services in my business-logic layer, reading from the Entity Framework repository in the data layer.
 
-Over time, this grew unwieldly.  There were a large number of controllers that all did basically the same thing - CRUD.  I want to add properties that our guests can travel to, well that's the model, business-logic service, the controller with at least four actions.
+Over time, this grew unwieldy.  There were a large number of controllers that all did basically the same thing - CRUD.  I want to add properties that our guests can travel to, well that's the model, business-logic service, the controller with at least four actions.
 
-I saw this pattern repeated throughout the project and knew there had to be a better appraoch.
+I saw this pattern repeated throughout the project and knew there had to be a better approach.
 
 Enter GraphQL - and more specifically [graphql-dotnet](https://graphql-dotnet.github.io/).
 
-I had previously heard of GraphQL and played with it a little, but never really understood, let alone harnessed, its potential.  It seemed a bit fad-ish - why would I use that when I can just use Entity Framework and write out my controllers.
+I had previously heard of GraphQL and played with it a little, but never really understood, let alone harnessed its potential.  It seemed a bit fad-ish - why would I use that when I can just use Entity Framework and write out my controllers.
 
 As I said in the beginning, I like to use our internal systems as a bit of a playground; so I started with a few basic entities that in terms of the system didn't require much more beyond simple CRUD operations - i.e., there was no special logic that needed to happen when entities were created or updated.
 
@@ -68,7 +68,7 @@ And it was, for complex types.  What if I have a Customer class, and they can ha
 
 I want to query the customer, and their quotes, display them on my web interface, allow the user to make changes to them, then patch in those changes - to the customer, and to their quotes.
 
-When I first thought through this problem (again, prior to attempting an implementation) I thought that Entity Framework would "just work."  And Entity Framework _would_ just work - Entity Framework Core on the otherhand would not.  The reason being how both frameworks handle lazy-loading of linked entities.
+When I first thought through this problem (again, prior to attempting an implementation) I thought that Entity Framework would "just work."  And Entity Framework _would_ just work - Entity Framework Core, on the other hand, would not.  The reason being how both frameworks handle the lazy-loading of linked entities.
 
 In Entity Framework, adding the `virtual` modifier to my `Quotes` collection should have done the trick.  Entity Framework Core doesn't work that way.
 
@@ -78,15 +78,15 @@ What this meant was that when I queried my data from GraphQL and presented it to
 
 This wasn't overly complex, it just meant that I had to add a bit more logic to the code querying my data context.
 
-There was one final hurdle to overcome.  What would happen if I wanted to assign a User to a Quote.  If, on my web interface, I were to have a `<select />` drop down on my Quote form where I could choose from a list of users who the quote was assigned to, the JSON Patch it would generate would try to "replace" (update) all the fields on the linked user, which would cause a bit of pain when applied to the entity tracked by the data context.
+There was one final hurdle to overcome.  What would happen if I wanted to assign a User to a Quote?  If, on my web interface, I were to have a `<select />` drop down on my Quote form where I could choose from a list of users who the quote was assigned to, the JSON Patch it would generate would try to "replace" (update) all the fields on the linked user, which would cause a bit of pain when applied to the entity tracked by the data context.
 
 Handling this on the front-end where the patch was generated was a bit dangerous, I didn't want to interfere with the JSON Patch libraries too much, so I took to handling this on the API itself.
 
-The ASP.NET Core JsonPatch library works nicely with Newtonsoft's `JObject` implementation, so with a bit of trivial code, I was able to manipulate the in-bound list of patch operations to work as required.  It's also easily estensible, like the GraphQL query, to add support for new entity types.
+The ASP.NET Core JsonPatch library works nicely with Newtonsoft's `JObject` implementation, so with a bit of trivial code, I was able to manipulate the inbound list of patch operations to work as required.  It's also easily extensible, like the GraphQL query, to add support for new entity types.
 
 The resulting code - that I will admit is dangerously missing documentation - can be found in [this gist](https://gist.github.com/brendanmckenzie/a50f4eb7d5913372d01fef8e73c5dc9b).
 
-Why is this in its own controller and not a GraphQL mutation, I hear you ask.  Initially, I went down this path.  I thought I could have a nice mutation that accepted a list of patch operations and that would be it.  The problem there is that the `value` field on a patch operation can be of _any_ type, a string, an int, a boolean, or a full blown JSON object.  I was trying to force a square through a circular hole.
+Why is this in its own controller and not a GraphQL mutation, I hear you ask.  Initially, I went down this path.  I thought I could have a nice mutation that accepted a list of patch operations and that would be it.  The problem here is that the `value` field on a patch operation can be of _any_ type, a string, an int, a boolean, or a full-blown JSON object.  I was trying to force a square through a circular hole.
 
 And with that, I have three out of the four CRUD operations implemented.  The final - D - is fairly trivial and doesn't quite deserve discussion.
 
