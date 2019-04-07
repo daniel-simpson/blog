@@ -16,9 +16,9 @@ For our business – [Take Off Go](https://www.takeoffgo.com/) – I have built 
 
 We are small, we don't have a lot of requirements and not many people to answer to, so I am comfortable using a custom built system for these purposes rather than using an off-the-shelf solution.
 
-It also gives me a testbed to play with new technology.  This means that I have re-written functionality, some would say needlessly, but it's how I learn.
+It also gives me a testbed to play with new technology.  This means that I have re-written the same functionality numerous times, some would say needlessly, but it's how I learn.
 
-It started out around the same time .NET Core started, which means it's grown along with the platform.
+It started out not long after .NET Core was first released, which means it - the system - and I have grown along with the framework.
 
 At its core, there is a [.NET Core Web API](https://dotnet.microsoft.com/) handling all the logic, a [Hangfire](https://www.hangfire.io/) scheduled task runner, a React interface, and recently a [gRPC](https://grpc.io/) endpoint for exposing APIs to external services.
 
