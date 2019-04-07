@@ -20,7 +20,7 @@ It also gives me a testbed to play with new technology.  This means that I have 
 
 It started out around the same time .NET Core started, which means it's grown along with the platform.
 
-At its core, there is a [.NET Core Web API](https://dotnet.microsoft.com/) handling all the logic, a [Hangfire](https://www.hangfire.io/) scheduled task runner, a React interface, and recently a [gRPC](https://grpc.io/) endpoint.
+At its core, there is a [.NET Core Web API](https://dotnet.microsoft.com/) handling all the logic, a [Hangfire](https://www.hangfire.io/) scheduled task runner, a React interface, and recently a [gRPC](https://grpc.io/) endpoint for exposing APIs to external services.
 
 Initially, I started with a standard Entity Framework setup, with ASP.NET Controllers for all my entities, talking to services in my business-logic layer, reading from the Entity Framework repository in the data layer.
 
